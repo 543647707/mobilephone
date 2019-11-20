@@ -1,0 +1,383 @@
+Dependencies for Project 'mobilephone', Target 'Target 1': (DO NOT MODIFY !)
+F (.\RTE\Device\STM32F103ZE\User\main.c)(0x5DD176E3)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork -I.\RTE\Device\STM32F103ZE\Ucos\Core -I.\RTE\Device\STM32F103ZE\Ucos\Config -I.\RTE\Device\STM32F103ZE\Ucos\Ports -I..\..\Ucos\Config-I E:\mobilephone\RTE-I E:\mobilephone\RTE\Device\STM32F103ZE-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.1.0\CMSIS\Include-I C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.1.0-I C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.1.0\Device\Include-I C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.1.0\Device\StdPeriph_Driver\inc-I C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.1.0\RTE_Driver-D_RTE_ -DSTM32F10X_HD-o .\main.o --omf_browse .\main.crf --depend .\main.d)
+I (C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.1.0\Device\StdPeriph_Driver\inc\stm32f10x_gpio.h)(0x52F9EB20)
+I (C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.1.0\Device\Include\stm32f10x.h)(0x53BA0D60)
+I (E:\mobilephone\RTE\RTE_Components.h)(0x5D5B7E0A)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.1.0\CMSIS\Include\core_cm3.h)(0x538426C6)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x53463A44)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.1.0\CMSIS\Include\core_cmInstr.h)(0x5302A2D0)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.1.0\CMSIS\Include\core_cmFunc.h)(0x5302A2D0)
+I (C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.1.0\Device\Include\system_stm32f10x.h)(0x4F1E2E3C)
+I (E:\mobilephone\RTE\Device\STM32F103ZE\stm32f10x_conf.h)(0x52F9EDD0)
+I (C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.1.0\Device\StdPeriph_Driver\inc\stm32f10x_cec.h)(0x52F9EB20)
+I (C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.1.0\Device\StdPeriph_Driver\inc\stm32f10x_dbgmcu.h)(0x52F9EB20)
+I (C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.1.0\Device\StdPeriph_Driver\inc\stm32f10x_dma.h)(0x52F9EB20)
+I (C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.1.0\Device\StdPeriph_Driver\inc\stm32f10x_rcc.h)(0x52F9EB20)
+I (C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.1.0\Device\StdPeriph_Driver\inc\stm32f10x_usart.h)(0x52F9EB20)
+I (C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.1.0\Device\StdPeriph_Driver\inc\misc.h)(0x52F9EB20)
+I (C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.1.0\RTE_Driver\GPIO_STM32F10x.h)(0x5617291E)
+I (C:\Keil_v5\ARM\ARMCC\include\stdbool.h)(0x53463A44)
+I (RTE\Device\STM32F103ZE\User\usart.h)(0x5DC93508)
+I (.\RTE\Device\STM32F103ZE\Ucos\Ports\os_cpu.h)(0x5D2D2200)
+I (RTE\Device\STM32F103ZE\User\key.h)(0x5DBE65F3)
+I (.\RTE\Device\STM32F103ZE\Ucos\Config\includes.h)(0x5D2C7080)
+I (C:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x53463A44)
+I (C:\Keil_v5\ARM\ARMCC\include\string.h)(0x53463A44)
+I (C:\Keil_v5\ARM\ARMCC\include\ctype.h)(0x53463A44)
+I (C:\Keil_v5\ARM\ARMCC\include\stdlib.h)(0x53463A44)
+I (C:\Keil_v5\ARM\ARMCC\include\stdarg.h)(0x53463A44)
+I (.\RTE\Device\STM32F103ZE\Ucos\Core\ucos_ii.h)(0x5D2BE620)
+I (.\RTE\Device\STM32F103ZE\Ucos\Config\os_cfg.h)(0x5D2C272F)
+I (RTE\Device\STM32F103ZE\User\delay.h)(0x51E9687B)
+I (RTE\Device\STM32F103ZE\User\Lcd_Driver.h)(0x5DC8FFB8)
+I (RTE\Device\STM32F103ZE\User\QDTFT_demo.h)(0x5DD0EF34)
+I (RTE\Device\STM32F103ZE\User\GUI.h)(0x5DCA82E6)
+F (.\RTE\Device\STM32F103ZE\User\usart.c)(0x5DD176E3)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork -I.\RTE\Device\STM32F103ZE\Ucos\Core -I.\RTE\Device\STM32F103ZE\Ucos\Config -I.\RTE\Device\STM32F103ZE\Ucos\Ports -I..\..\Ucos\Config-I E:\mobilephone\RTE-I E:\mobilephone\RTE\Device\STM32F103ZE-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.1.0\CMSIS\Include-I C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.1.0-I C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.1.0\Device\Include-I C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.1.0\Device\StdPeriph_Driver\inc-I C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.1.0\RTE_Driver-D_RTE_ -DSTM32F10X_HD-o .\usart.o --omf_browse .\usart.crf --depend .\usart.d)
+I (RTE\Device\STM32F103ZE\User\usart.h)(0x5DC93508)
+I (.\RTE\Device\STM32F103ZE\Ucos\Ports\os_cpu.h)(0x5D2D2200)
+I (C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.1.0\Device\StdPeriph_Driver\inc\stm32f10x_dma.h)(0x52F9EB20)
+I (C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.1.0\Device\Include\stm32f10x.h)(0x53BA0D60)
+I (E:\mobilephone\RTE\RTE_Components.h)(0x5D5B7E0A)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.1.0\CMSIS\Include\core_cm3.h)(0x538426C6)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x53463A44)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.1.0\CMSIS\Include\core_cmInstr.h)(0x5302A2D0)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.1.0\CMSIS\Include\core_cmFunc.h)(0x5302A2D0)
+I (C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.1.0\Device\Include\system_stm32f10x.h)(0x4F1E2E3C)
+I (E:\mobilephone\RTE\Device\STM32F103ZE\stm32f10x_conf.h)(0x52F9EDD0)
+I (C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.1.0\Device\StdPeriph_Driver\inc\stm32f10x_cec.h)(0x52F9EB20)
+I (C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.1.0\Device\StdPeriph_Driver\inc\stm32f10x_dbgmcu.h)(0x52F9EB20)
+I (C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.1.0\Device\StdPeriph_Driver\inc\stm32f10x_gpio.h)(0x52F9EB20)
+I (C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.1.0\Device\StdPeriph_Driver\inc\stm32f10x_rcc.h)(0x52F9EB20)
+I (C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.1.0\Device\StdPeriph_Driver\inc\stm32f10x_usart.h)(0x52F9EB20)
+I (C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.1.0\Device\StdPeriph_Driver\inc\misc.h)(0x52F9EB20)
+I (.\RTE\Device\STM32F103ZE\Ucos\Config\includes.h)(0x5D2C7080)
+I (C:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x53463A44)
+I (C:\Keil_v5\ARM\ARMCC\include\string.h)(0x53463A44)
+I (C:\Keil_v5\ARM\ARMCC\include\ctype.h)(0x53463A44)
+I (C:\Keil_v5\ARM\ARMCC\include\stdlib.h)(0x53463A44)
+I (C:\Keil_v5\ARM\ARMCC\include\stdarg.h)(0x53463A44)
+I (.\RTE\Device\STM32F103ZE\Ucos\Core\ucos_ii.h)(0x5D2BE620)
+I (.\RTE\Device\STM32F103ZE\Ucos\Config\os_cfg.h)(0x5D2C272F)
+F (.\RTE\Device\STM32F103ZE\User\key.c)(0x5DD109BE)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork -I.\RTE\Device\STM32F103ZE\Ucos\Core -I.\RTE\Device\STM32F103ZE\Ucos\Config -I.\RTE\Device\STM32F103ZE\Ucos\Ports -I..\..\Ucos\Config-I E:\mobilephone\RTE-I E:\mobilephone\RTE\Device\STM32F103ZE-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.1.0\CMSIS\Include-I C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.1.0-I C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.1.0\Device\Include-I C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.1.0\Device\StdPeriph_Driver\inc-I C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.1.0\RTE_Driver-D_RTE_ -DSTM32F10X_HD-o .\key.o --omf_browse .\key.crf --depend .\key.d)
+I (RTE\Device\STM32F103ZE\User\key.h)(0x5DBE65F3)
+I (C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.1.0\Device\StdPeriph_Driver\inc\stm32f10x_gpio.h)(0x52F9EB20)
+I (C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.1.0\Device\Include\stm32f10x.h)(0x53BA0D60)
+I (E:\mobilephone\RTE\RTE_Components.h)(0x5D5B7E0A)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.1.0\CMSIS\Include\core_cm3.h)(0x538426C6)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x53463A44)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.1.0\CMSIS\Include\core_cmInstr.h)(0x5302A2D0)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.1.0\CMSIS\Include\core_cmFunc.h)(0x5302A2D0)
+I (C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.1.0\Device\Include\system_stm32f10x.h)(0x4F1E2E3C)
+I (E:\mobilephone\RTE\Device\STM32F103ZE\stm32f10x_conf.h)(0x52F9EDD0)
+I (C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.1.0\Device\StdPeriph_Driver\inc\stm32f10x_cec.h)(0x52F9EB20)
+I (C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.1.0\Device\StdPeriph_Driver\inc\stm32f10x_dbgmcu.h)(0x52F9EB20)
+I (C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.1.0\Device\StdPeriph_Driver\inc\stm32f10x_dma.h)(0x52F9EB20)
+I (C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.1.0\Device\StdPeriph_Driver\inc\stm32f10x_rcc.h)(0x52F9EB20)
+I (C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.1.0\Device\StdPeriph_Driver\inc\stm32f10x_usart.h)(0x52F9EB20)
+I (C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.1.0\Device\StdPeriph_Driver\inc\misc.h)(0x52F9EB20)
+I (C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.1.0\RTE_Driver\GPIO_STM32F10x.h)(0x5617291E)
+I (C:\Keil_v5\ARM\ARMCC\include\stdbool.h)(0x53463A44)
+I (.\RTE\Device\STM32F103ZE\Ucos\Config\includes.h)(0x5D2C7080)
+I (C:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x53463A44)
+I (C:\Keil_v5\ARM\ARMCC\include\string.h)(0x53463A44)
+I (C:\Keil_v5\ARM\ARMCC\include\ctype.h)(0x53463A44)
+I (C:\Keil_v5\ARM\ARMCC\include\stdlib.h)(0x53463A44)
+I (C:\Keil_v5\ARM\ARMCC\include\stdarg.h)(0x53463A44)
+I (.\RTE\Device\STM32F103ZE\Ucos\Core\ucos_ii.h)(0x5D2BE620)
+I (.\RTE\Device\STM32F103ZE\Ucos\Config\os_cfg.h)(0x5D2C272F)
+I (.\RTE\Device\STM32F103ZE\Ucos\Ports\os_cpu.h)(0x5D2D2200)
+F (.\RTE\Device\STM32F103ZE\User\GUI.c)(0x5DC6CC30)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork -I.\RTE\Device\STM32F103ZE\Ucos\Core -I.\RTE\Device\STM32F103ZE\Ucos\Config -I.\RTE\Device\STM32F103ZE\Ucos\Ports -I..\..\Ucos\Config-I E:\mobilephone\RTE-I E:\mobilephone\RTE\Device\STM32F103ZE-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.1.0\CMSIS\Include-I C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.1.0-I C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.1.0\Device\Include-I C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.1.0\Device\StdPeriph_Driver\inc-I C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.1.0\RTE_Driver-D_RTE_ -DSTM32F10X_HD-o .\gui.o --omf_browse .\gui.crf --depend .\gui.d)
+I (C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.1.0\Device\Include\stm32f10x.h)(0x53BA0D60)
+I (E:\mobilephone\RTE\RTE_Components.h)(0x5D5B7E0A)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.1.0\CMSIS\Include\core_cm3.h)(0x538426C6)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x53463A44)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.1.0\CMSIS\Include\core_cmInstr.h)(0x5302A2D0)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.1.0\CMSIS\Include\core_cmFunc.h)(0x5302A2D0)
+I (C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.1.0\Device\Include\system_stm32f10x.h)(0x4F1E2E3C)
+I (E:\mobilephone\RTE\Device\STM32F103ZE\stm32f10x_conf.h)(0x52F9EDD0)
+I (C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.1.0\Device\StdPeriph_Driver\inc\stm32f10x_cec.h)(0x52F9EB20)
+I (C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.1.0\Device\StdPeriph_Driver\inc\stm32f10x_dbgmcu.h)(0x52F9EB20)
+I (C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.1.0\Device\StdPeriph_Driver\inc\stm32f10x_dma.h)(0x52F9EB20)
+I (C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.1.0\Device\StdPeriph_Driver\inc\stm32f10x_gpio.h)(0x52F9EB20)
+I (C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.1.0\Device\StdPeriph_Driver\inc\stm32f10x_rcc.h)(0x52F9EB20)
+I (C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.1.0\Device\StdPeriph_Driver\inc\stm32f10x_usart.h)(0x52F9EB20)
+I (C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.1.0\Device\StdPeriph_Driver\inc\misc.h)(0x52F9EB20)
+I (RTE\Device\STM32F103ZE\User\Lcd_Driver.h)(0x5DC8FFB8)
+I (RTE\Device\STM32F103ZE\User\GUI.h)(0x5DCA82E6)
+I (RTE\Device\STM32F103ZE\User\font.h)(0x5DC4D1EC)
+F (.\RTE\Device\STM32F103ZE\User\Lcd_Driver.c)(0x5DCA3680)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork -I.\RTE\Device\STM32F103ZE\Ucos\Core -I.\RTE\Device\STM32F103ZE\Ucos\Config -I.\RTE\Device\STM32F103ZE\Ucos\Ports -I..\..\Ucos\Config-I E:\mobilephone\RTE-I E:\mobilephone\RTE\Device\STM32F103ZE-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.1.0\CMSIS\Include-I C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.1.0-I C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.1.0\Device\Include-I C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.1.0\Device\StdPeriph_Driver\inc-I C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.1.0\RTE_Driver-D_RTE_ -DSTM32F10X_HD-o .\lcd_driver.o --omf_browse .\lcd_driver.crf --depend .\lcd_driver.d)
+I (C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.1.0\Device\Include\stm32f10x.h)(0x53BA0D60)
+I (E:\mobilephone\RTE\RTE_Components.h)(0x5D5B7E0A)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.1.0\CMSIS\Include\core_cm3.h)(0x538426C6)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x53463A44)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.1.0\CMSIS\Include\core_cmInstr.h)(0x5302A2D0)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.1.0\CMSIS\Include\core_cmFunc.h)(0x5302A2D0)
+I (C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.1.0\Device\Include\system_stm32f10x.h)(0x4F1E2E3C)
+I (E:\mobilephone\RTE\Device\STM32F103ZE\stm32f10x_conf.h)(0x52F9EDD0)
+I (C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.1.0\Device\StdPeriph_Driver\inc\stm32f10x_cec.h)(0x52F9EB20)
+I (C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.1.0\Device\StdPeriph_Driver\inc\stm32f10x_dbgmcu.h)(0x52F9EB20)
+I (C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.1.0\Device\StdPeriph_Driver\inc\stm32f10x_dma.h)(0x52F9EB20)
+I (C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.1.0\Device\StdPeriph_Driver\inc\stm32f10x_gpio.h)(0x52F9EB20)
+I (C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.1.0\Device\StdPeriph_Driver\inc\stm32f10x_rcc.h)(0x52F9EB20)
+I (C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.1.0\Device\StdPeriph_Driver\inc\stm32f10x_usart.h)(0x52F9EB20)
+I (C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.1.0\Device\StdPeriph_Driver\inc\misc.h)(0x52F9EB20)
+I (RTE\Device\STM32F103ZE\User\Lcd_Driver.h)(0x5DC8FFB8)
+I (RTE\Device\STM32F103ZE\User\LCD_Config.h)(0x52A883F2)
+I (RTE\Device\STM32F103ZE\User\delay.h)(0x51E9687B)
+I (.\RTE\Device\STM32F103ZE\Ucos\Config\includes.h)(0x5D2C7080)
+I (C:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x53463A44)
+I (C:\Keil_v5\ARM\ARMCC\include\string.h)(0x53463A44)
+I (C:\Keil_v5\ARM\ARMCC\include\ctype.h)(0x53463A44)
+I (C:\Keil_v5\ARM\ARMCC\include\stdlib.h)(0x53463A44)
+I (C:\Keil_v5\ARM\ARMCC\include\stdarg.h)(0x53463A44)
+I (.\RTE\Device\STM32F103ZE\Ucos\Core\ucos_ii.h)(0x5D2BE620)
+I (.\RTE\Device\STM32F103ZE\Ucos\Config\os_cfg.h)(0x5D2C272F)
+I (.\RTE\Device\STM32F103ZE\Ucos\Ports\os_cpu.h)(0x5D2D2200)
+F (.\RTE\Device\STM32F103ZE\User\QDTFT_demo.c)(0x5DD101ED)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork -I.\RTE\Device\STM32F103ZE\Ucos\Core -I.\RTE\Device\STM32F103ZE\Ucos\Config -I.\RTE\Device\STM32F103ZE\Ucos\Ports -I..\..\Ucos\Config-I E:\mobilephone\RTE-I E:\mobilephone\RTE\Device\STM32F103ZE-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.1.0\CMSIS\Include-I C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.1.0-I C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.1.0\Device\Include-I C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.1.0\Device\StdPeriph_Driver\inc-I C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.1.0\RTE_Driver-D_RTE_ -DSTM32F10X_HD-o .\qdtft_demo.o --omf_browse .\qdtft_demo.crf --depend .\qdtft_demo.d)
+I (C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.1.0\Device\Include\stm32f10x.h)(0x53BA0D60)
+I (E:\mobilephone\RTE\RTE_Components.h)(0x5D5B7E0A)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.1.0\CMSIS\Include\core_cm3.h)(0x538426C6)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x53463A44)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.1.0\CMSIS\Include\core_cmInstr.h)(0x5302A2D0)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.1.0\CMSIS\Include\core_cmFunc.h)(0x5302A2D0)
+I (C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.1.0\Device\Include\system_stm32f10x.h)(0x4F1E2E3C)
+I (E:\mobilephone\RTE\Device\STM32F103ZE\stm32f10x_conf.h)(0x52F9EDD0)
+I (C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.1.0\Device\StdPeriph_Driver\inc\stm32f10x_cec.h)(0x52F9EB20)
+I (C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.1.0\Device\StdPeriph_Driver\inc\stm32f10x_dbgmcu.h)(0x52F9EB20)
+I (C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.1.0\Device\StdPeriph_Driver\inc\stm32f10x_dma.h)(0x52F9EB20)
+I (C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.1.0\Device\StdPeriph_Driver\inc\stm32f10x_gpio.h)(0x52F9EB20)
+I (C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.1.0\Device\StdPeriph_Driver\inc\stm32f10x_rcc.h)(0x52F9EB20)
+I (C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.1.0\Device\StdPeriph_Driver\inc\stm32f10x_usart.h)(0x52F9EB20)
+I (C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.1.0\Device\StdPeriph_Driver\inc\misc.h)(0x52F9EB20)
+I (RTE\Device\STM32F103ZE\User\Lcd_Driver.h)(0x5DC8FFB8)
+I (RTE\Device\STM32F103ZE\User\GUI.h)(0x5DCA82E6)
+I (RTE\Device\STM32F103ZE\User\delay.h)(0x51E9687B)
+I (RTE\Device\STM32F103ZE\User\Picture.h)(0x5DD0DA05)
+I (RTE\Device\STM32F103ZE\User\QDTFT_demo.h)(0x5DD0EF34)
+I (.\RTE\Device\STM32F103ZE\Ucos\Config\includes.h)(0x5D2C7080)
+I (C:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x53463A44)
+I (C:\Keil_v5\ARM\ARMCC\include\string.h)(0x53463A44)
+I (C:\Keil_v5\ARM\ARMCC\include\ctype.h)(0x53463A44)
+I (C:\Keil_v5\ARM\ARMCC\include\stdlib.h)(0x53463A44)
+I (C:\Keil_v5\ARM\ARMCC\include\stdarg.h)(0x53463A44)
+I (.\RTE\Device\STM32F103ZE\Ucos\Core\ucos_ii.h)(0x5D2BE620)
+I (.\RTE\Device\STM32F103ZE\Ucos\Config\os_cfg.h)(0x5D2C272F)
+I (.\RTE\Device\STM32F103ZE\Ucos\Ports\os_cpu.h)(0x5D2D2200)
+F (.\RTE\Device\STM32F103ZE\User\delay.c)(0x51E9689B)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork -I.\RTE\Device\STM32F103ZE\Ucos\Core -I.\RTE\Device\STM32F103ZE\Ucos\Config -I.\RTE\Device\STM32F103ZE\Ucos\Ports -I..\..\Ucos\Config-I E:\mobilephone\RTE-I E:\mobilephone\RTE\Device\STM32F103ZE-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.1.0\CMSIS\Include-I C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.1.0-I C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.1.0\Device\Include-I C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.1.0\Device\StdPeriph_Driver\inc-I C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.1.0\RTE_Driver-D_RTE_ -DSTM32F10X_HD-o .\delay.o --omf_browse .\delay.crf --depend .\delay.d)
+I (C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.1.0\Device\Include\stm32f10x.h)(0x53BA0D60)
+I (E:\mobilephone\RTE\RTE_Components.h)(0x5D5B7E0A)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.1.0\CMSIS\Include\core_cm3.h)(0x538426C6)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x53463A44)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.1.0\CMSIS\Include\core_cmInstr.h)(0x5302A2D0)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.1.0\CMSIS\Include\core_cmFunc.h)(0x5302A2D0)
+I (C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.1.0\Device\Include\system_stm32f10x.h)(0x4F1E2E3C)
+I (E:\mobilephone\RTE\Device\STM32F103ZE\stm32f10x_conf.h)(0x52F9EDD0)
+I (C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.1.0\Device\StdPeriph_Driver\inc\stm32f10x_cec.h)(0x52F9EB20)
+I (C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.1.0\Device\StdPeriph_Driver\inc\stm32f10x_dbgmcu.h)(0x52F9EB20)
+I (C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.1.0\Device\StdPeriph_Driver\inc\stm32f10x_dma.h)(0x52F9EB20)
+I (C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.1.0\Device\StdPeriph_Driver\inc\stm32f10x_gpio.h)(0x52F9EB20)
+I (C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.1.0\Device\StdPeriph_Driver\inc\stm32f10x_rcc.h)(0x52F9EB20)
+I (C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.1.0\Device\StdPeriph_Driver\inc\stm32f10x_usart.h)(0x52F9EB20)
+I (C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.1.0\Device\StdPeriph_Driver\inc\misc.h)(0x52F9EB20)
+I (RTE\Device\STM32F103ZE\User\delay.h)(0x51E9687B)
+F (.\RTE\Device\STM32F103ZE\Ucos\Core\os_core.c)(0x4C0714AE)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork -I.\RTE\Device\STM32F103ZE\Ucos\Core -I.\RTE\Device\STM32F103ZE\Ucos\Config -I.\RTE\Device\STM32F103ZE\Ucos\Ports -I..\..\Ucos\Config-I E:\mobilephone\RTE-I E:\mobilephone\RTE\Device\STM32F103ZE-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.1.0\CMSIS\Include-I C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.1.0-I C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.1.0\Device\Include-I C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.1.0\Device\StdPeriph_Driver\inc-I C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.1.0\RTE_Driver-D_RTE_ -DSTM32F10X_HD-o .\os_core.o --omf_browse .\os_core.crf --depend .\os_core.d)
+I (.\RTE\Device\STM32F103ZE\Ucos\Core\ucos_ii.h)(0x5D2BE620)
+I (.\RTE\Device\STM32F103ZE\Ucos\Config\os_cfg.h)(0x5D2C272F)
+I (.\RTE\Device\STM32F103ZE\Ucos\Ports\os_cpu.h)(0x5D2D2200)
+F (.\RTE\Device\STM32F103ZE\Ucos\Core\os_flag.c)(0x4C0714AE)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork -I.\RTE\Device\STM32F103ZE\Ucos\Core -I.\RTE\Device\STM32F103ZE\Ucos\Config -I.\RTE\Device\STM32F103ZE\Ucos\Ports -I..\..\Ucos\Config-I E:\mobilephone\RTE-I E:\mobilephone\RTE\Device\STM32F103ZE-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.1.0\CMSIS\Include-I C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.1.0-I C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.1.0\Device\Include-I C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.1.0\Device\StdPeriph_Driver\inc-I C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.1.0\RTE_Driver-D_RTE_ -DSTM32F10X_HD-o .\os_flag.o --omf_browse .\os_flag.crf --depend .\os_flag.d)
+I (.\RTE\Device\STM32F103ZE\Ucos\Core\ucos_ii.h)(0x5D2BE620)
+I (.\RTE\Device\STM32F103ZE\Ucos\Config\os_cfg.h)(0x5D2C272F)
+I (.\RTE\Device\STM32F103ZE\Ucos\Ports\os_cpu.h)(0x5D2D2200)
+F (.\RTE\Device\STM32F103ZE\Ucos\Core\os_mbox.c)(0x4C0714AE)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork -I.\RTE\Device\STM32F103ZE\Ucos\Core -I.\RTE\Device\STM32F103ZE\Ucos\Config -I.\RTE\Device\STM32F103ZE\Ucos\Ports -I..\..\Ucos\Config-I E:\mobilephone\RTE-I E:\mobilephone\RTE\Device\STM32F103ZE-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.1.0\CMSIS\Include-I C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.1.0-I C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.1.0\Device\Include-I C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.1.0\Device\StdPeriph_Driver\inc-I C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.1.0\RTE_Driver-D_RTE_ -DSTM32F10X_HD-o .\os_mbox.o --omf_browse .\os_mbox.crf --depend .\os_mbox.d)
+I (.\RTE\Device\STM32F103ZE\Ucos\Core\ucos_ii.h)(0x5D2BE620)
+I (.\RTE\Device\STM32F103ZE\Ucos\Config\os_cfg.h)(0x5D2C272F)
+I (.\RTE\Device\STM32F103ZE\Ucos\Ports\os_cpu.h)(0x5D2D2200)
+F (.\RTE\Device\STM32F103ZE\Ucos\Core\os_mem.c)(0x5D3570A3)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork -I.\RTE\Device\STM32F103ZE\Ucos\Core -I.\RTE\Device\STM32F103ZE\Ucos\Config -I.\RTE\Device\STM32F103ZE\Ucos\Ports -I..\..\Ucos\Config-I E:\mobilephone\RTE-I E:\mobilephone\RTE\Device\STM32F103ZE-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.1.0\CMSIS\Include-I C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.1.0-I C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.1.0\Device\Include-I C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.1.0\Device\StdPeriph_Driver\inc-I C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.1.0\RTE_Driver-D_RTE_ -DSTM32F10X_HD-o .\os_mem.o --omf_browse .\os_mem.crf --depend .\os_mem.d)
+I (.\RTE\Device\STM32F103ZE\Ucos\Core\ucos_ii.h)(0x5D2BE620)
+I (.\RTE\Device\STM32F103ZE\Ucos\Config\os_cfg.h)(0x5D2C272F)
+I (.\RTE\Device\STM32F103ZE\Ucos\Ports\os_cpu.h)(0x5D2D2200)
+F (.\RTE\Device\STM32F103ZE\Ucos\Core\os_mutex.c)(0x4C0714AE)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork -I.\RTE\Device\STM32F103ZE\Ucos\Core -I.\RTE\Device\STM32F103ZE\Ucos\Config -I.\RTE\Device\STM32F103ZE\Ucos\Ports -I..\..\Ucos\Config-I E:\mobilephone\RTE-I E:\mobilephone\RTE\Device\STM32F103ZE-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.1.0\CMSIS\Include-I C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.1.0-I C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.1.0\Device\Include-I C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.1.0\Device\StdPeriph_Driver\inc-I C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.1.0\RTE_Driver-D_RTE_ -DSTM32F10X_HD-o .\os_mutex.o --omf_browse .\os_mutex.crf --depend .\os_mutex.d)
+I (.\RTE\Device\STM32F103ZE\Ucos\Core\ucos_ii.h)(0x5D2BE620)
+I (.\RTE\Device\STM32F103ZE\Ucos\Config\os_cfg.h)(0x5D2C272F)
+I (.\RTE\Device\STM32F103ZE\Ucos\Ports\os_cpu.h)(0x5D2D2200)
+F (.\RTE\Device\STM32F103ZE\Ucos\Core\os_q.c)(0x4C0714AE)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork -I.\RTE\Device\STM32F103ZE\Ucos\Core -I.\RTE\Device\STM32F103ZE\Ucos\Config -I.\RTE\Device\STM32F103ZE\Ucos\Ports -I..\..\Ucos\Config-I E:\mobilephone\RTE-I E:\mobilephone\RTE\Device\STM32F103ZE-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.1.0\CMSIS\Include-I C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.1.0-I C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.1.0\Device\Include-I C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.1.0\Device\StdPeriph_Driver\inc-I C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.1.0\RTE_Driver-D_RTE_ -DSTM32F10X_HD-o .\os_q.o --omf_browse .\os_q.crf --depend .\os_q.d)
+I (.\RTE\Device\STM32F103ZE\Ucos\Core\ucos_ii.h)(0x5D2BE620)
+I (.\RTE\Device\STM32F103ZE\Ucos\Config\os_cfg.h)(0x5D2C272F)
+I (.\RTE\Device\STM32F103ZE\Ucos\Ports\os_cpu.h)(0x5D2D2200)
+F (.\RTE\Device\STM32F103ZE\Ucos\Core\os_sem.c)(0x4C0714AE)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork -I.\RTE\Device\STM32F103ZE\Ucos\Core -I.\RTE\Device\STM32F103ZE\Ucos\Config -I.\RTE\Device\STM32F103ZE\Ucos\Ports -I..\..\Ucos\Config-I E:\mobilephone\RTE-I E:\mobilephone\RTE\Device\STM32F103ZE-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.1.0\CMSIS\Include-I C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.1.0-I C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.1.0\Device\Include-I C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.1.0\Device\StdPeriph_Driver\inc-I C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.1.0\RTE_Driver-D_RTE_ -DSTM32F10X_HD-o .\os_sem.o --omf_browse .\os_sem.crf --depend .\os_sem.d)
+I (.\RTE\Device\STM32F103ZE\Ucos\Core\ucos_ii.h)(0x5D2BE620)
+I (.\RTE\Device\STM32F103ZE\Ucos\Config\os_cfg.h)(0x5D2C272F)
+I (.\RTE\Device\STM32F103ZE\Ucos\Ports\os_cpu.h)(0x5D2D2200)
+F (.\RTE\Device\STM32F103ZE\Ucos\Core\os_task.c)(0x4C0714AE)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork -I.\RTE\Device\STM32F103ZE\Ucos\Core -I.\RTE\Device\STM32F103ZE\Ucos\Config -I.\RTE\Device\STM32F103ZE\Ucos\Ports -I..\..\Ucos\Config-I E:\mobilephone\RTE-I E:\mobilephone\RTE\Device\STM32F103ZE-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.1.0\CMSIS\Include-I C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.1.0-I C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.1.0\Device\Include-I C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.1.0\Device\StdPeriph_Driver\inc-I C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.1.0\RTE_Driver-D_RTE_ -DSTM32F10X_HD-o .\os_task.o --omf_browse .\os_task.crf --depend .\os_task.d)
+I (.\RTE\Device\STM32F103ZE\Ucos\Core\ucos_ii.h)(0x5D2BE620)
+I (.\RTE\Device\STM32F103ZE\Ucos\Config\os_cfg.h)(0x5D2C272F)
+I (.\RTE\Device\STM32F103ZE\Ucos\Ports\os_cpu.h)(0x5D2D2200)
+F (.\RTE\Device\STM32F103ZE\Ucos\Core\os_time.c)(0x4C0714AE)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork -I.\RTE\Device\STM32F103ZE\Ucos\Core -I.\RTE\Device\STM32F103ZE\Ucos\Config -I.\RTE\Device\STM32F103ZE\Ucos\Ports -I..\..\Ucos\Config-I E:\mobilephone\RTE-I E:\mobilephone\RTE\Device\STM32F103ZE-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.1.0\CMSIS\Include-I C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.1.0-I C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.1.0\Device\Include-I C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.1.0\Device\StdPeriph_Driver\inc-I C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.1.0\RTE_Driver-D_RTE_ -DSTM32F10X_HD-o .\os_time.o --omf_browse .\os_time.crf --depend .\os_time.d)
+I (.\RTE\Device\STM32F103ZE\Ucos\Core\ucos_ii.h)(0x5D2BE620)
+I (.\RTE\Device\STM32F103ZE\Ucos\Config\os_cfg.h)(0x5D2C272F)
+I (.\RTE\Device\STM32F103ZE\Ucos\Ports\os_cpu.h)(0x5D2D2200)
+F (.\RTE\Device\STM32F103ZE\Ucos\Core\os_tmr.c)(0x4C0714AE)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork -I.\RTE\Device\STM32F103ZE\Ucos\Core -I.\RTE\Device\STM32F103ZE\Ucos\Config -I.\RTE\Device\STM32F103ZE\Ucos\Ports -I..\..\Ucos\Config-I E:\mobilephone\RTE-I E:\mobilephone\RTE\Device\STM32F103ZE-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.1.0\CMSIS\Include-I C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.1.0-I C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.1.0\Device\Include-I C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.1.0\Device\StdPeriph_Driver\inc-I C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.1.0\RTE_Driver-D_RTE_ -DSTM32F10X_HD-o .\os_tmr.o --omf_browse .\os_tmr.crf --depend .\os_tmr.d)
+I (.\RTE\Device\STM32F103ZE\Ucos\Core\ucos_ii.h)(0x5D2BE620)
+I (.\RTE\Device\STM32F103ZE\Ucos\Config\os_cfg.h)(0x5D2C272F)
+I (.\RTE\Device\STM32F103ZE\Ucos\Ports\os_cpu.h)(0x5D2D2200)
+F (.\RTE\Device\STM32F103ZE\Ucos\Config\includes.h)(0x5D2C7080)()
+F (.\RTE\Device\STM32F103ZE\Ucos\Config\os_cfg.h)(0x5D2C272F)()
+F (.\RTE\Device\STM32F103ZE\Ucos\Ports\os_cpu.h)(0x5D2D2200)()
+F (.\RTE\Device\STM32F103ZE\Ucos\Ports\os_cpu_a.asm)(0x5D2D2258)(--cpu Cortex-M3 -g --apcs=interwork -I E:\mobilephone\RTE-I E:\mobilephone\RTE\Device\STM32F103ZE-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.1.0\CMSIS\Include-I C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.1.0-I C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.1.0\Device\Include-I C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.1.0\Device\StdPeriph_Driver\inc-I C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.1.0\RTE_Driver--list .\os_cpu_a.lst --xref -o .\os_cpu_a.o --depend .\os_cpu_a.d)
+F (.\RTE\Device\STM32F103ZE\Ucos\Ports\os_cpu_c.c)(0x5D2C3592)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork -I.\RTE\Device\STM32F103ZE\Ucos\Core -I.\RTE\Device\STM32F103ZE\Ucos\Config -I.\RTE\Device\STM32F103ZE\Ucos\Ports -I..\..\Ucos\Config-I E:\mobilephone\RTE-I E:\mobilephone\RTE\Device\STM32F103ZE-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.1.0\CMSIS\Include-I C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.1.0-I C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.1.0\Device\Include-I C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.1.0\Device\StdPeriph_Driver\inc-I C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.1.0\RTE_Driver-D_RTE_ -DSTM32F10X_HD-o .\os_cpu_c.o --omf_browse .\os_cpu_c.crf --depend .\os_cpu_c.d)
+I (.\RTE\Device\STM32F103ZE\Ucos\Core\ucos_ii.h)(0x5D2BE620)
+I (.\RTE\Device\STM32F103ZE\Ucos\Config\os_cfg.h)(0x5D2C272F)
+I (.\RTE\Device\STM32F103ZE\Ucos\Ports\os_cpu.h)(0x5D2D2200)
+F (.\RTE\Device\STM32F103ZE\Ucos\Ports\os_dbg_r.c)(0x4C0714AE)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork -I.\RTE\Device\STM32F103ZE\Ucos\Core -I.\RTE\Device\STM32F103ZE\Ucos\Config -I.\RTE\Device\STM32F103ZE\Ucos\Ports -I..\..\Ucos\Config-I E:\mobilephone\RTE-I E:\mobilephone\RTE\Device\STM32F103ZE-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.1.0\CMSIS\Include-I C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.1.0-I C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.1.0\Device\Include-I C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.1.0\Device\StdPeriph_Driver\inc-I C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.1.0\RTE_Driver-D_RTE_ -DSTM32F10X_HD-o .\os_dbg_r.o --omf_browse .\os_dbg_r.crf --depend .\os_dbg_r.d)
+I (.\RTE\Device\STM32F103ZE\Ucos\Core\ucos_ii.h)(0x5D2BE620)
+I (.\RTE\Device\STM32F103ZE\Ucos\Config\os_cfg.h)(0x5D2C272F)
+I (.\RTE\Device\STM32F103ZE\Ucos\Ports\os_cpu.h)(0x5D2D2200)
+F (C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.1.0\Device\StdPeriph_Driver\src\stm32f10x_cec.c)(0x52F9EB20)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork -I.\RTE\Device\STM32F103ZE\Ucos\Core -I.\RTE\Device\STM32F103ZE\Ucos\Config -I.\RTE\Device\STM32F103ZE\Ucos\Ports -I..\..\Ucos\Config-I E:\mobilephone\RTE-I E:\mobilephone\RTE\Device\STM32F103ZE-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.1.0\CMSIS\Include-I C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.1.0-I C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.1.0\Device\Include-I C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.1.0\Device\StdPeriph_Driver\inc-I C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.1.0\RTE_Driver-D_RTE_ -DSTM32F10X_HD-o .\stm32f10x_cec.o --omf_browse .\stm32f10x_cec.crf --depend .\stm32f10x_cec.d)
+I (C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.1.0\Device\StdPeriph_Driver\inc\stm32f10x_cec.h)(0x52F9EB20)
+I (C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.1.0\Device\Include\stm32f10x.h)(0x53BA0D60)
+I (E:\mobilephone\RTE\RTE_Components.h)(0x5D5B7E0A)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.1.0\CMSIS\Include\core_cm3.h)(0x538426C6)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x53463A44)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.1.0\CMSIS\Include\core_cmInstr.h)(0x5302A2D0)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.1.0\CMSIS\Include\core_cmFunc.h)(0x5302A2D0)
+I (C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.1.0\Device\Include\system_stm32f10x.h)(0x4F1E2E3C)
+I (E:\mobilephone\RTE\Device\STM32F103ZE\stm32f10x_conf.h)(0x52F9EDD0)
+I (C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.1.0\Device\StdPeriph_Driver\inc\stm32f10x_dbgmcu.h)(0x52F9EB20)
+I (C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.1.0\Device\StdPeriph_Driver\inc\stm32f10x_dma.h)(0x52F9EB20)
+I (C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.1.0\Device\StdPeriph_Driver\inc\stm32f10x_gpio.h)(0x52F9EB20)
+I (C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.1.0\Device\StdPeriph_Driver\inc\stm32f10x_rcc.h)(0x52F9EB20)
+I (C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.1.0\Device\StdPeriph_Driver\inc\stm32f10x_usart.h)(0x52F9EB20)
+I (C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.1.0\Device\StdPeriph_Driver\inc\misc.h)(0x52F9EB20)
+F (C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.1.0\Device\StdPeriph_Driver\src\stm32f10x_dbgmcu.c)(0x52F9EB20)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork -I.\RTE\Device\STM32F103ZE\Ucos\Core -I.\RTE\Device\STM32F103ZE\Ucos\Config -I.\RTE\Device\STM32F103ZE\Ucos\Ports -I..\..\Ucos\Config-I E:\mobilephone\RTE-I E:\mobilephone\RTE\Device\STM32F103ZE-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.1.0\CMSIS\Include-I C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.1.0-I C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.1.0\Device\Include-I C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.1.0\Device\StdPeriph_Driver\inc-I C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.1.0\RTE_Driver-D_RTE_ -DSTM32F10X_HD-o .\stm32f10x_dbgmcu.o --omf_browse .\stm32f10x_dbgmcu.crf --depend .\stm32f10x_dbgmcu.d)
+I (C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.1.0\Device\StdPeriph_Driver\inc\stm32f10x_dbgmcu.h)(0x52F9EB20)
+I (C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.1.0\Device\Include\stm32f10x.h)(0x53BA0D60)
+I (E:\mobilephone\RTE\RTE_Components.h)(0x5D5B7E0A)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.1.0\CMSIS\Include\core_cm3.h)(0x538426C6)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x53463A44)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.1.0\CMSIS\Include\core_cmInstr.h)(0x5302A2D0)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.1.0\CMSIS\Include\core_cmFunc.h)(0x5302A2D0)
+I (C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.1.0\Device\Include\system_stm32f10x.h)(0x4F1E2E3C)
+I (E:\mobilephone\RTE\Device\STM32F103ZE\stm32f10x_conf.h)(0x52F9EDD0)
+I (C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.1.0\Device\StdPeriph_Driver\inc\stm32f10x_cec.h)(0x52F9EB20)
+I (C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.1.0\Device\StdPeriph_Driver\inc\stm32f10x_dma.h)(0x52F9EB20)
+I (C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.1.0\Device\StdPeriph_Driver\inc\stm32f10x_gpio.h)(0x52F9EB20)
+I (C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.1.0\Device\StdPeriph_Driver\inc\stm32f10x_rcc.h)(0x52F9EB20)
+I (C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.1.0\Device\StdPeriph_Driver\inc\stm32f10x_usart.h)(0x52F9EB20)
+I (C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.1.0\Device\StdPeriph_Driver\inc\misc.h)(0x52F9EB20)
+F (C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.1.0\Device\StdPeriph_Driver\src\stm32f10x_gpio.c)(0x52F9EB20)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork -I.\RTE\Device\STM32F103ZE\Ucos\Core -I.\RTE\Device\STM32F103ZE\Ucos\Config -I.\RTE\Device\STM32F103ZE\Ucos\Ports -I..\..\Ucos\Config-I E:\mobilephone\RTE-I E:\mobilephone\RTE\Device\STM32F103ZE-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.1.0\CMSIS\Include-I C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.1.0-I C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.1.0\Device\Include-I C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.1.0\Device\StdPeriph_Driver\inc-I C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.1.0\RTE_Driver-D_RTE_ -DSTM32F10X_HD-o .\stm32f10x_gpio.o --omf_browse .\stm32f10x_gpio.crf --depend .\stm32f10x_gpio.d)
+I (C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.1.0\Device\StdPeriph_Driver\inc\stm32f10x_gpio.h)(0x52F9EB20)
+I (C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.1.0\Device\Include\stm32f10x.h)(0x53BA0D60)
+I (E:\mobilephone\RTE\RTE_Components.h)(0x5D5B7E0A)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.1.0\CMSIS\Include\core_cm3.h)(0x538426C6)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x53463A44)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.1.0\CMSIS\Include\core_cmInstr.h)(0x5302A2D0)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.1.0\CMSIS\Include\core_cmFunc.h)(0x5302A2D0)
+I (C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.1.0\Device\Include\system_stm32f10x.h)(0x4F1E2E3C)
+I (E:\mobilephone\RTE\Device\STM32F103ZE\stm32f10x_conf.h)(0x52F9EDD0)
+I (C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.1.0\Device\StdPeriph_Driver\inc\stm32f10x_cec.h)(0x52F9EB20)
+I (C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.1.0\Device\StdPeriph_Driver\inc\stm32f10x_dbgmcu.h)(0x52F9EB20)
+I (C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.1.0\Device\StdPeriph_Driver\inc\stm32f10x_dma.h)(0x52F9EB20)
+I (C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.1.0\Device\StdPeriph_Driver\inc\stm32f10x_rcc.h)(0x52F9EB20)
+I (C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.1.0\Device\StdPeriph_Driver\inc\stm32f10x_usart.h)(0x52F9EB20)
+I (C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.1.0\Device\StdPeriph_Driver\inc\misc.h)(0x52F9EB20)
+F (C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.1.0\Device\StdPeriph_Driver\src\stm32f10x_rcc.c)(0x52F9EB20)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork -I.\RTE\Device\STM32F103ZE\Ucos\Core -I.\RTE\Device\STM32F103ZE\Ucos\Config -I.\RTE\Device\STM32F103ZE\Ucos\Ports -I..\..\Ucos\Config-I E:\mobilephone\RTE-I E:\mobilephone\RTE\Device\STM32F103ZE-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.1.0\CMSIS\Include-I C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.1.0-I C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.1.0\Device\Include-I C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.1.0\Device\StdPeriph_Driver\inc-I C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.1.0\RTE_Driver-D_RTE_ -DSTM32F10X_HD-o .\stm32f10x_rcc.o --omf_browse .\stm32f10x_rcc.crf --depend .\stm32f10x_rcc.d)
+I (C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.1.0\Device\StdPeriph_Driver\inc\stm32f10x_rcc.h)(0x52F9EB20)
+I (C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.1.0\Device\Include\stm32f10x.h)(0x53BA0D60)
+I (E:\mobilephone\RTE\RTE_Components.h)(0x5D5B7E0A)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.1.0\CMSIS\Include\core_cm3.h)(0x538426C6)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x53463A44)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.1.0\CMSIS\Include\core_cmInstr.h)(0x5302A2D0)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.1.0\CMSIS\Include\core_cmFunc.h)(0x5302A2D0)
+I (C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.1.0\Device\Include\system_stm32f10x.h)(0x4F1E2E3C)
+I (E:\mobilephone\RTE\Device\STM32F103ZE\stm32f10x_conf.h)(0x52F9EDD0)
+I (C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.1.0\Device\StdPeriph_Driver\inc\stm32f10x_cec.h)(0x52F9EB20)
+I (C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.1.0\Device\StdPeriph_Driver\inc\stm32f10x_dbgmcu.h)(0x52F9EB20)
+I (C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.1.0\Device\StdPeriph_Driver\inc\stm32f10x_dma.h)(0x52F9EB20)
+I (C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.1.0\Device\StdPeriph_Driver\inc\stm32f10x_gpio.h)(0x52F9EB20)
+I (C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.1.0\Device\StdPeriph_Driver\inc\stm32f10x_usart.h)(0x52F9EB20)
+I (C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.1.0\Device\StdPeriph_Driver\inc\misc.h)(0x52F9EB20)
+F (C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.1.0\RTE_Driver\GPIO_STM32F10x.c)(0x5617291E)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork -I.\RTE\Device\STM32F103ZE\Ucos\Core -I.\RTE\Device\STM32F103ZE\Ucos\Config -I.\RTE\Device\STM32F103ZE\Ucos\Ports -I..\..\Ucos\Config-I E:\mobilephone\RTE-I E:\mobilephone\RTE\Device\STM32F103ZE-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.1.0\CMSIS\Include-I C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.1.0-I C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.1.0\Device\Include-I C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.1.0\Device\StdPeriph_Driver\inc-I C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.1.0\RTE_Driver-D_RTE_ -DSTM32F10X_HD-o .\gpio_stm32f10x.o --omf_browse .\gpio_stm32f10x.crf --depend .\gpio_stm32f10x.d)
+I (C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.1.0\RTE_Driver\GPIO_STM32F10x.h)(0x5617291E)
+I (C:\Keil_v5\ARM\ARMCC\include\stdbool.h)(0x53463A44)
+I (C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.1.0\Device\Include\stm32f10x.h)(0x53BA0D60)
+I (E:\mobilephone\RTE\RTE_Components.h)(0x5D5B7E0A)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.1.0\CMSIS\Include\core_cm3.h)(0x538426C6)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x53463A44)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.1.0\CMSIS\Include\core_cmInstr.h)(0x5302A2D0)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.1.0\CMSIS\Include\core_cmFunc.h)(0x5302A2D0)
+I (C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.1.0\Device\Include\system_stm32f10x.h)(0x4F1E2E3C)
+I (E:\mobilephone\RTE\Device\STM32F103ZE\stm32f10x_conf.h)(0x52F9EDD0)
+I (C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.1.0\Device\StdPeriph_Driver\inc\stm32f10x_cec.h)(0x52F9EB20)
+I (C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.1.0\Device\StdPeriph_Driver\inc\stm32f10x_dbgmcu.h)(0x52F9EB20)
+I (C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.1.0\Device\StdPeriph_Driver\inc\stm32f10x_dma.h)(0x52F9EB20)
+I (C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.1.0\Device\StdPeriph_Driver\inc\stm32f10x_gpio.h)(0x52F9EB20)
+I (C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.1.0\Device\StdPeriph_Driver\inc\stm32f10x_rcc.h)(0x52F9EB20)
+I (C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.1.0\Device\StdPeriph_Driver\inc\stm32f10x_usart.h)(0x52F9EB20)
+I (C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.1.0\Device\StdPeriph_Driver\inc\misc.h)(0x52F9EB20)
+F (RTE\Device\STM32F103ZE\RTE_Device.h)(0x56F9DE5C)()
+F (RTE\Device\STM32F103ZE\startup_stm32f10x_hd.s)(0x4F1E2E3C)(--cpu Cortex-M3 -g --apcs=interwork -I E:\mobilephone\RTE-I E:\mobilephone\RTE\Device\STM32F103ZE-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.1.0\CMSIS\Include-I C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.1.0-I C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.1.0\Device\Include-I C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.1.0\Device\StdPeriph_Driver\inc-I C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.1.0\RTE_Driver--list .\startup_stm32f10x_hd.lst --xref -o .\startup_stm32f10x_hd.o --depend .\startup_stm32f10x_hd.d)
+F (RTE\Device\STM32F103ZE\system_stm32f10x.c)(0x4F1E2E3C)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork -I.\RTE\Device\STM32F103ZE\Ucos\Core -I.\RTE\Device\STM32F103ZE\Ucos\Config -I.\RTE\Device\STM32F103ZE\Ucos\Ports -I..\..\Ucos\Config-I E:\mobilephone\RTE-I E:\mobilephone\RTE\Device\STM32F103ZE-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.1.0\CMSIS\Include-I C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.1.0-I C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.1.0\Device\Include-I C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.1.0\Device\StdPeriph_Driver\inc-I C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.1.0\RTE_Driver-D_RTE_ -DSTM32F10X_HD-o .\system_stm32f10x.o --omf_browse .\system_stm32f10x.crf --depend .\system_stm32f10x.d)
+I (C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.1.0\Device\Include\stm32f10x.h)(0x53BA0D60)
+I (E:\mobilephone\RTE\RTE_Components.h)(0x5D5B7E0A)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.1.0\CMSIS\Include\core_cm3.h)(0x538426C6)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x53463A44)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.1.0\CMSIS\Include\core_cmInstr.h)(0x5302A2D0)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.1.0\CMSIS\Include\core_cmFunc.h)(0x5302A2D0)
+I (C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.1.0\Device\Include\system_stm32f10x.h)(0x4F1E2E3C)
+I (E:\mobilephone\RTE\Device\STM32F103ZE\stm32f10x_conf.h)(0x52F9EDD0)
+I (C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.1.0\Device\StdPeriph_Driver\inc\stm32f10x_cec.h)(0x52F9EB20)
+I (C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.1.0\Device\StdPeriph_Driver\inc\stm32f10x_dbgmcu.h)(0x52F9EB20)
+I (C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.1.0\Device\StdPeriph_Driver\inc\stm32f10x_dma.h)(0x52F9EB20)
+I (C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.1.0\Device\StdPeriph_Driver\inc\stm32f10x_gpio.h)(0x52F9EB20)
+I (C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.1.0\Device\StdPeriph_Driver\inc\stm32f10x_rcc.h)(0x52F9EB20)
+I (C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.1.0\Device\StdPeriph_Driver\inc\stm32f10x_usart.h)(0x52F9EB20)
+I (C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.1.0\Device\StdPeriph_Driver\inc\misc.h)(0x52F9EB20)
+F (C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.1.0\Device\StdPeriph_Driver\src\misc.c)(0x52F9EB20)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork -I.\RTE\Device\STM32F103ZE\Ucos\Core -I.\RTE\Device\STM32F103ZE\Ucos\Config -I.\RTE\Device\STM32F103ZE\Ucos\Ports -I..\..\Ucos\Config-I E:\mobilephone\RTE-I E:\mobilephone\RTE\Device\STM32F103ZE-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.1.0\CMSIS\Include-I C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.1.0-I C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.1.0\Device\Include-I C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.1.0\Device\StdPeriph_Driver\inc-I C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.1.0\RTE_Driver-D_RTE_ -DSTM32F10X_HD-o .\misc.o --omf_browse .\misc.crf --depend .\misc.d)
+I (C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.1.0\Device\StdPeriph_Driver\inc\misc.h)(0x52F9EB20)
+I (C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.1.0\Device\Include\stm32f10x.h)(0x53BA0D60)
+I (E:\mobilephone\RTE\RTE_Components.h)(0x5D5B7E0A)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.1.0\CMSIS\Include\core_cm3.h)(0x538426C6)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x53463A44)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.1.0\CMSIS\Include\core_cmInstr.h)(0x5302A2D0)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.1.0\CMSIS\Include\core_cmFunc.h)(0x5302A2D0)
+I (C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.1.0\Device\Include\system_stm32f10x.h)(0x4F1E2E3C)
+I (E:\mobilephone\RTE\Device\STM32F103ZE\stm32f10x_conf.h)(0x52F9EDD0)
+I (C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.1.0\Device\StdPeriph_Driver\inc\stm32f10x_cec.h)(0x52F9EB20)
+I (C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.1.0\Device\StdPeriph_Driver\inc\stm32f10x_dbgmcu.h)(0x52F9EB20)
+I (C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.1.0\Device\StdPeriph_Driver\inc\stm32f10x_dma.h)(0x52F9EB20)
+I (C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.1.0\Device\StdPeriph_Driver\inc\stm32f10x_gpio.h)(0x52F9EB20)
+I (C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.1.0\Device\StdPeriph_Driver\inc\stm32f10x_rcc.h)(0x52F9EB20)
+I (C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.1.0\Device\StdPeriph_Driver\inc\stm32f10x_usart.h)(0x52F9EB20)
+F (RTE\Device\STM32F103ZE\stm32f10x_conf.h)(0x52F9EDD0)()
+F (C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.1.0\Device\StdPeriph_Driver\src\stm32f10x_usart.c)(0x52F9EB20)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork -I.\RTE\Device\STM32F103ZE\Ucos\Core -I.\RTE\Device\STM32F103ZE\Ucos\Config -I.\RTE\Device\STM32F103ZE\Ucos\Ports -I..\..\Ucos\Config-I E:\mobilephone\RTE-I E:\mobilephone\RTE\Device\STM32F103ZE-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.1.0\CMSIS\Include-I C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.1.0-I C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.1.0\Device\Include-I C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.1.0\Device\StdPeriph_Driver\inc-I C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.1.0\RTE_Driver-D_RTE_ -DSTM32F10X_HD-o .\stm32f10x_usart.o --omf_browse .\stm32f10x_usart.crf --depend .\stm32f10x_usart.d)
+I (C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.1.0\Device\StdPeriph_Driver\inc\stm32f10x_usart.h)(0x52F9EB20)
+I (C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.1.0\Device\Include\stm32f10x.h)(0x53BA0D60)
+I (E:\mobilephone\RTE\RTE_Components.h)(0x5D5B7E0A)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.1.0\CMSIS\Include\core_cm3.h)(0x538426C6)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x53463A44)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.1.0\CMSIS\Include\core_cmInstr.h)(0x5302A2D0)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.1.0\CMSIS\Include\core_cmFunc.h)(0x5302A2D0)
+I (C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.1.0\Device\Include\system_stm32f10x.h)(0x4F1E2E3C)
+I (E:\mobilephone\RTE\Device\STM32F103ZE\stm32f10x_conf.h)(0x52F9EDD0)
+I (C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.1.0\Device\StdPeriph_Driver\inc\stm32f10x_cec.h)(0x52F9EB20)
+I (C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.1.0\Device\StdPeriph_Driver\inc\stm32f10x_dbgmcu.h)(0x52F9EB20)
+I (C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.1.0\Device\StdPeriph_Driver\inc\stm32f10x_dma.h)(0x52F9EB20)
+I (C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.1.0\Device\StdPeriph_Driver\inc\stm32f10x_gpio.h)(0x52F9EB20)
+I (C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.1.0\Device\StdPeriph_Driver\inc\stm32f10x_rcc.h)(0x52F9EB20)
+I (C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.1.0\Device\StdPeriph_Driver\inc\misc.h)(0x52F9EB20)
+F (C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.1.0\Device\StdPeriph_Driver\src\stm32f10x_dma.c)(0x52F9EB20)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork -I.\RTE\Device\STM32F103ZE\Ucos\Core -I.\RTE\Device\STM32F103ZE\Ucos\Config -I.\RTE\Device\STM32F103ZE\Ucos\Ports -I..\..\Ucos\Config-I E:\mobilephone\RTE-I E:\mobilephone\RTE\Device\STM32F103ZE-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.1.0\CMSIS\Include-I C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.1.0-I C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.1.0\Device\Include-I C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.1.0\Device\StdPeriph_Driver\inc-I C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.1.0\RTE_Driver-D_RTE_ -DSTM32F10X_HD-o .\stm32f10x_dma.o --omf_browse .\stm32f10x_dma.crf --depend .\stm32f10x_dma.d)
+I (C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.1.0\Device\StdPeriph_Driver\inc\stm32f10x_dma.h)(0x52F9EB20)
+I (C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.1.0\Device\Include\stm32f10x.h)(0x53BA0D60)
+I (E:\mobilephone\RTE\RTE_Components.h)(0x5D5B7E0A)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.1.0\CMSIS\Include\core_cm3.h)(0x538426C6)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x53463A44)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.1.0\CMSIS\Include\core_cmInstr.h)(0x5302A2D0)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.1.0\CMSIS\Include\core_cmFunc.h)(0x5302A2D0)
+I (C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.1.0\Device\Include\system_stm32f10x.h)(0x4F1E2E3C)
+I (E:\mobilephone\RTE\Device\STM32F103ZE\stm32f10x_conf.h)(0x52F9EDD0)
+I (C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.1.0\Device\StdPeriph_Driver\inc\stm32f10x_cec.h)(0x52F9EB20)
+I (C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.1.0\Device\StdPeriph_Driver\inc\stm32f10x_dbgmcu.h)(0x52F9EB20)
+I (C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.1.0\Device\StdPeriph_Driver\inc\stm32f10x_gpio.h)(0x52F9EB20)
+I (C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.1.0\Device\StdPeriph_Driver\inc\stm32f10x_rcc.h)(0x52F9EB20)
+I (C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.1.0\Device\StdPeriph_Driver\inc\stm32f10x_usart.h)(0x52F9EB20)
+I (C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.1.0\Device\StdPeriph_Driver\inc\misc.h)(0x52F9EB20)
